@@ -24,10 +24,10 @@ In the challenge, the election commission now requests three more pieces of data
 - **County with the Largest Number of Votes:** Denver
 
 - **Breakdown of Number of Votes & Percentage of Total Votes, for each Candidate**
-    -Candidate: % of Total Votes (Number of Votes)
-    -Charles Casper Stockham: 23.0% (85,213)
-    -Diana DeGette: 73.8% (272,892)
-    -Raymon Anthony Doane: 3.1% (11,606)
+    * Candidate: % of Total Votes (Number of Votes)
+    * Charles Casper Stockham: 23.0% (85,213)
+    * Diana DeGette: 73.8% (272,892)
+    * Raymon Anthony Doane: 3.1% (11,606)
 
 - **Winning Candidate, Vote Count & Percentage of Total Votes**
     -Winner: Diana DeGette
