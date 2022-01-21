@@ -34,6 +34,8 @@ In the challenge, the election commission now requests three more pieces of data
     * Winning Vote Count: 272,892
     * Winning Percentage: 73.8%
 
+
+
 ## Election-Audit Summary
 This script will work with ANY election, so long as the data is in the same format as our election_result.csv file. Specifically, we need the input data to have three columns: Ballot ID, County, and Candidate, preferably in this order, or else we'll have to make some small modifications to the script. Thus, for any election data that's in the same format as our CSV file, this script can instantly compute the exact same summary statistics and results. However, if we wanted to extract more data from a dataset of election results, we could modify the following. 
 
