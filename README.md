@@ -12,6 +12,7 @@ In this module, we were able to help Tom and Seth by writing a Python program th
 In the challenge, the election commission now requests three more pieces of data, this time, accounting for the county.
 
 ## Election-Audit Results
+Note: all results can also be viewed in the txt file in the analysis folder.
 
 - **Number of Votes Cast:** 369,711
 
