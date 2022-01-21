@@ -16,10 +16,10 @@ In the challenge, the election commission now requests three more pieces of data
 - **Number of Votes Cast:** 369,711
 
 - **Breakdown of Number of Votes & Percentage of Total Votes, for each County**
-      -County: % of Total Votes (Number of Votes)
-      -Jefferson: 10.5% (38,855)
-      -Denver: 82.8% (306,055)
-      -Arapahoe: 6.7% (24,801)
+      - County: % of Total Votes (Number of Votes)
+      - Jefferson: 10.5% (38,855)
+      - Denver: 82.8% (306,055)
+      - Arapahoe: 6.7% (24,801)
 
 - **County with the Largest Number of Votes:** Denver
 
