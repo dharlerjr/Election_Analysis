@@ -13,23 +13,23 @@ In the challenge, the election commission now requests three more pieces of data
 
 ## Election-Audit Results
 
-- Number of Votes Cast: 369,711
+- **Number of Votes Cast:** 369,711
 
-- Breakdown of Number of Votes & Percentage of Total Votes, for each County
+- **Breakdown of Number of Votes & Percentage of Total Votes, for each County**
     -County: % of Total Votes (Number of Votes)
     -Jefferson: 10.5% (38,855)
     -Denver: 82.8% (306,055)
     -Arapahoe: 6.7% (24,801)
 
-- County with the Largest Number of Votes: Denver
+- **County with the Largest Number of Votes:** Denver
 
-- Breakdown of Number of Votes & Percentage of Total Votes, for each Candidate
+- **Breakdown of Number of Votes & Percentage of Total Votes, for each Candidate**
     -Candidate: % of Total Votes (Number of Votes)
     -Charles Casper Stockham: 23.0% (85,213)
     -Diana DeGette: 73.8% (272,892)
     -Raymon Anthony Doane: 3.1% (11,606)
 
-- Winning Candidate, Vote Count & Percentage of Total Votes
+- **Winning Candidate, Vote Count & Percentage of Total Votes**
     -Winner: Diana DeGette
     -Winning Vote Count: 272,892
     -Winning Percentage: 73.8%
