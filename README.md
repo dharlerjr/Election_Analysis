@@ -17,16 +17,16 @@ Note: all results can also be viewed in the txt file in the analysis folder.
 - **Number of Votes Cast:** 369,711
 
 - **Breakdown of Number of Votes & Percentage of Total Votes, for each County**
-    * Jefferson: 10.5% (38,855)
-    * Denver: 82.8% (306,055)
-    * Arapahoe: 6.7% (24,801)
+    * Jefferson: 38,855 (10.5%)
+    * Denver: 306,055 (82.8%)
+    * Arapahoe: 24,801 (6.7%)
 
 - **County with the Largest Number of Votes:** Denver
 
 - **Breakdown of Number of Votes & Percentage of Total Votes, for each Candidate**
-    * Charles Casper Stockham: 23.0% (85,213)
-    * Diana DeGette: 73.8% (272,892)
-    * Raymon Anthony Doane: 3.1% (11,606)
+    * Charles Casper Stockham: 85,213 (23.0%)
+    * Diana DeGette: 272,892 (73.8%)
+    * Raymon Anthony Doane: 11,606 (3.1%)
 
 - **Winning Candidate, Vote Count & Percentage of Total Votes**
     * Winner: Diana DeGette
