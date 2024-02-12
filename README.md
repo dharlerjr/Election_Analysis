@@ -3,10 +3,10 @@
 ## Overview of Project
 
 ### Background
-In this module, we were able to help Tom and Seth by writing a Python program that...
-1. Reads the data from the CSV file
-2. Calculates various summary statistics and results, such as finding the winning candidate, based on the popular vote, AND...
-3. Saves the results to our txt file
+In this module, we assisted Tom and Seth, two Colorado Board of Election employees, by writing a Python program that...
+1. Read in data from a CSV file
+2. Calculated various summary statistics and results, such as finding the winning candidate, based on the popular vote, AND...
+3. Saved the results to a txt file
 
 ### Purpose
 In the challenge, the election commission now requests three more pieces of data, this time, accounting for the county.
@@ -17,7 +17,6 @@ Note: all results can also be viewed in the txt file in the analysis folder.
 - **Number of Votes Cast:** 369,711
 
 - **Breakdown of Number of Votes & Percentage of Total Votes, for each County**
-    * County: % of Total Votes (Number of Votes)
     * Jefferson: 10.5% (38,855)
     * Denver: 82.8% (306,055)
     * Arapahoe: 6.7% (24,801)
@@ -25,7 +24,6 @@ Note: all results can also be viewed in the txt file in the analysis folder.
 - **County with the Largest Number of Votes:** Denver
 
 - **Breakdown of Number of Votes & Percentage of Total Votes, for each Candidate**
-    * Candidate: % of Total Votes (Number of Votes)
     * Charles Casper Stockham: 23.0% (85,213)
     * Diana DeGette: 73.8% (272,892)
     * Raymon Anthony Doane: 3.1% (11,606)
@@ -34,7 +32,6 @@ Note: all results can also be viewed in the txt file in the analysis folder.
     * Winner: Diana DeGette
     * Winning Vote Count: 272,892
     * Winning Percentage: 73.8%
-
 
 
 ## Election-Audit Summary
